@@ -1,687 +1,737 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<!-- Mirrored from expert-themes.com/html/contra/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 13 Sep 2019 21:27:13 GMT -->
+<html lang="es" class="theme-color-e83b35 theme-skin-light">
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="utf-8">
-<title>HCOCT</title>
-<!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">   
-<!--Color Switcher Mockup-->
-<link href="css/color-switcher-design.css" rel="stylesheet">
-<!--Color Themes-->
-<link id="theme-color-file" href="css/color-themes/default-theme.css" rel="stylesheet">
-
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ming Jin - Software developer | Entrepreneur</title>  
+    <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png"/>
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png"/>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Fredoka+One">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic">
+    <link rel="stylesheet" type="text/css" href="assets/dist/all-min.css">
+    <script type="text/javascript" src="assets/js/libs/modernizr.js"></script>
 </head>
-
-<body>
-
-<div class="page-wrapper">
-    <!-- Preloader -->
-    <div class="preloader"></div>
-    
-    <!-- Main Header-->
-    <header class="main-header header-style-one">
-        <div class="auto-container">
-            <div class="header-lower">
-                <div class="main-box clearfix">
-                    <div class="logo-box">
-                        <div class="logo"><a href="#"><img src="images/logo-2.png" alt="" title=""></a></div>
-                    </div>
-
-                    <div class="nav-outer clearfix">
-                        <!-- Main Menu -->
-                        <nav class="main-menu navbar-expand-md ">
-                            <div class="navbar-header">
-                                <!-- Toggle Button -->      
-                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                                    <span class="icon flaticon-menu-button"></span>
-                                </button>
-                            </div>
-                            
-                            <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
-                                <ul class="navigation clearfix">
-                                    <li class="current dropdown scroll-to-target" data-target="#banners_section"><a>Home</a>
-                                    </li>
-                                    <li class="dropdown scroll-to-target" data-target="#about_us_section"><a>About</a>
-                                    </li>
-                                    <li class="dropdown scroll-to-target" data-target="#services_section"><a>Services</a>
-                                    </li>
-                                    <li class="dropdown scroll-to-target" data-target="#project_section"><a>Projects</a>
-                                    </li>
-                                    <li class="dropdown scroll-to-target" data-target="#testimonial_section"><a>Contact Us</a>     
-                                </ul>
-                            </div>
-                        </nav><!-- Main Menu End-->  
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!--End Main Header -->
-    
-    <!-- Bnner Section -->
-    <section class="banner-section" id="banners_section">
-        <div class="banner-carousel owl-carousel owl-theme">
-            <div class="slide-item" style="background-image: url(images/main-slider/image-2.jpg);">
-                <div class="auto-container">
-                    <div class="content-box">
-                        <h2>WEB DEVELOPMENT</h2>
-                        <div class="text">Familiar with all JS Stack, Serverless Architecture</div>
-                    </div>
-                </div>
-            </div>
-            <div class="slide-item" style="background-image: url(images/main-slider/image-3.jpg);">
-                <div class="auto-container">
-                    <div class="content-box">
-                        <h2>MOBILE DEVELOPMENT</h2>
-                        
-                        <div class="text">Rich Experience, Working at Any Time Zone</div>
-                    </div>
-                </div>
-            </div>
-            <div class="slide-item" style="background-image: url(images/main-slider/image-1.jpg);">
-                <div class="auto-container">
-                    <div class="content-box">
-                        <h2>E-COMMERCE/SHOPIFY DEVELOPMENT</h2>
-                        <div class="text">Created 21+ stores from scratch & have worked on 100's</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="bottom-box">
-            <div class="auto-container clearfix">
-                <ul class="contact-info">
-                    <li><span>PHONE :</span> (+86) 132-3693-7200</li>
-                    <li><span>EMAIL :</span> <a href="#">nicolasjin7132@outlook.com</a></li>
+<body class="home header-has-img loading">
+    <div class="mobile-nav">
+        <button class="btn-mobile mobile-nav-close"><i class="rsicon rsicon-close"></i></button>
+        <div class="mobile-nav-inner">
+            <nav id="mobile-nav" class="nav">
+                <ul class="clearfix">
+                    <li><a href="index-2.html#about">ABOUT ME</a></li>
+                    <li><a href="index-2.html#skills">KNOWLEDGE</a></li>
+                    <li><a href="index-2.html#experience">EXPERIENCE</a></li>
+                    <li><a href="index-2.html#references">REFERENCES</a></li>
+                    <li><a href="blog/index.html">BLOG</a></li>
+                    <li><a href="index-2.html#contact">CONTACT <span></span></a></li>
                 </ul>
-            </div>
+            </nav>
         </div>
-    </section>
-    <!-- End Bnner Section -->
-
-    <!-- About Section -->
-    <section class="about-section" id="about_us_section" style="background-image: url(images/background/1.jpg);">
-        <div class="auto-container">
-            <div class="row no-gutters">
-                <!-- Image Column -->
-                <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="title-box wow fadeInLeft" data-wow-delay='1200ms'>
-                            <h2>ABOUT <br> US</h2>
+    </div> 
+    <!-- .mobile-nav -->
+    <div class="sidebar sidebar-fixed">
+        <button class="btn-sidebar btn-sidebar-close">
+            <i class="rsicon rsicon-close"></i>
+        </button>
+        <div class="widget-area">
+            <aside class="widget widget-profile">
+                <div class="profile-photo">
+                    <img src="assets/img/1.jpg"/>
+                </div>
+                <div class="profile-info">
+                    <h2 class="profile-title">Ming Jin</h2>
+                    <h3 class="profile-position">Ecommerce And Front-end Developer</h3>
+                </div>
+            </aside> 
+            <!-- .widget_search -->
+            <aside class="widget widget_contact">
+                <h2 class="widget-title">Contact me</h2>
+                <form class="rsForm" action="" method="post">
+                    <div class="input-field">
+                        <label>Name</label>
+                        <input type="text" name="rsName" value="">
+                        <span class="line"></span>                            
+                    </div>
+                    <div class="input-field">
+                        <label>Email</label>
+                        <input type="email" name="rsEmail" value="">
+                        <span class="line"></span>                            
+                    </div>
+                    <div class="input-field">
+                        <label>Affair</label>
+                        <input type="text" name="rsSubject" value="">
+                        <span class="line"></span>                            
+                    </div>
+                    <div class="input-field">
+                        <label>Message</label>
+                        <textarea rows="4" name="rsMessage"></textarea>
+                        <span class="line"></span>                            
+                    </div>
+                    <span class="btn-outer btn-primary-outer ripple">
+                        <input class="rsFormSubmit btn btn-lg btn-primary" type="submit" value="Enviar">
+                    </span>                        
+                </form>
+            </aside><!-- .widget_contact -->
+            <!-- .widget_contact -->
+            <aside class="widget widget-popuplar-posts">
+                <h2 class="widget-title">Popular Posts</h2>
+                <ul id="popularPosts">
+                    <li>
+                        <div class="post-media"><a href="#"><img src="assets/blog/tengo-primo-hace-web.gif" alt="Tengo un primo que me hace la web"/></a></div>
+                        <h3 class="post-title"><a href="#">I Have a cousin who Makes me The Web</a></h3>
+                    </li>
+                    <li>
+                        <div class="post-media"><a href="#"><img src="assets/blog/mongodb-stitch.png" alt="Stitch: El BaaS de Mongodb"/></a></div>
+                        <h3 class="post-title"><a href="#">Stitch: The Baas of MONGODB</a></h3>
+                    </li>
+                    <li>
+                        <div class="post-media"><a href="#"><img src="assets/blog/backend-as-a-service.jpg" alt="¿Qué es un Backend as a Service?"/></a></div>
+                        <h3 class="post-title"><a href="#">What is a Backend as a Service?</a></h3>
+                    </li>
+                </ul>
+            </aside>
+            <!-- .widget-popuplar-posts -->
+            <aside class="widget widget_tag_cloud">
+                <h2 class="widget-title">Tag Cloud</h2>
+                <div class="tagcloud">
+                    <a href="#"> APIS</a>
+                    <a href="#"> Programming</a>
+                    <a href="#"> Software Architecture</a>
+                    <a href="#"> node.js</a>
+                    <a href="#"> pm2</a>
+                    <a href="#"> mongodb</a>
+                    <a href="#"> backend</a>
+                    <a href="#"> cloudinary</a>
+                    <a href="#"> kickstarter</a>
+                    <a href="#"> passport.js</a>
+                    <a href="#"> Entrepreneurship</a>
+                    <a href="#"> Leadership</a>
+                    <a href="#"> serverless architecture</a>
+                    <a href="#"> digital Ocean</a>
+                    <a href="#"> Amazon Lightsail</a>
+                    <a href="#">> VPS</a>
+                    <a href="#"> crowdfunding</a>
+                    <a href="#"> spaces</a>
+                    <a href="#"> s3</a>
+                    <a href="#"> serverless</a>
+                    <a href="#"> serverless framework</a>
+                    <a href="#"> firebase</a>
+                    <a href="#"> aws</a>
+                    <a href="#"> bass</a>
+                    <a href="#"> apps</a>
+                    <a href="#"> wordpress</a>                                                      
+                </div>
+            </aside>
+            <!-- .widget_tag_cloud -->    
+            <aside class="widget widget-recent-posts">
+                <h2 class="widget-title">Recent Posts</h2>
+                <ul id="recentPosts">
+                    <li>
+                        <div class="post-tag">
+                            <a href="#">
+                            #mongodb
+                            </a>
+                            <a href="#">
+                            #Security
+                            </a>    
                         </div>
-                        <div class="image-box">
-                            <figure class="alphabet-img wow fadeInRight"><img src="images/resource/alphabet-image.png" alt=""></figure>
-                            <figure class="image wow fadeInRight" data-wow-delay='600ms'><img src="images/resource/about_1.png" alt=""></figure>
+                        <h3 class="post-title">
+                            <a href="#">SETTING UP MONGODB SECURITY FOR A PRODUCTION ENVIRONMENT</a>
+                        </h3>
+                    </li>
+                    <li>
+                        <div class="post-tag">
+                            <a href="#">
+                                #Ecommerce Development
+                            </a>
+                            <a href="#">
+                                #Web Development
+                            </a>
+                            <a href="#">
+                                #Web Design
+                            </a>
+                            <a href="#">
+                                #plugins
+                            </a>
+                            <a href="#">
+                                #Shopify
+                            </a>
                         </div>
-                    </div>
-                </div>
-
-                <!-- Content Column -->
-                <div class="content-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column wow fadeInLeft">
-                        <div class="content-box">
-                            <div class="title">
-                                <h2>Full Stack Developers</h2>
-                            </div>
-                            <div class="text">We are coding champions here at HCOCT. 
-                                 We live, breathe and think code and ways to improve code. Our expert team specializes
-                                 in coding Websites, mobile applications and UI/UX design.
-                                 We exist to exceed expectations of our customers and to be truly dedicated to them.
-                                 In other words we want to be your partner, take the stress out of a difficult technical initiative.
-                                 We're only successful if the Customer is delighted with our work. </div>
+                        <h3 class="post-title">
+                            <a href="#">PLUGINS FOR EVERYTHING: DESTROYING WEB DESIGN</a>
+                        </h3>
+                    </li>
+                    <li>
+                        <div class="post-tag">
+                            <a href="#">
+                            #Software Architecture
+                            </a>
                         </div>
-                    </div>
-                </div>
-            </div>
+                        <h3 class="post-title">
+                            <a href="#">CREATING APPLICATIONS WITH HIGH AVAILABILITY IN DIGITAL OCEAN</a>
+                        </h3>
+                    </li>
+                </ul>
+            </aside>
+            <!-- .widget-recent-posts -->
+            <aside class="widget widget_categories">
+                <h2 class="widget-title">Categories</h2>
+                <ul id="categories">
+                    <li>
+                        <a href="#">
+                            Technology
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            Software Development
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            Entrepreneurship
+                        </a>
+                    </li>
+                </ul>
+            </aside>
+            <!-- .widget_categories -->
         </div>
-    </section>
-    <!--End About Section -->
-
- <!-- Team Section -->
- <section class="team-section">
-    <div class="auto-container">
-        <div class="sec-title text-center">
-            <span class="title">Our Team</span>
-            <h2>Profect Expert</h2>
-        </div>
-
-        <div class="row clearfix">
-            <!-- Team Block -->
-            <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <div class="image"><a href="#"><img src="images/resource/team-1.jpg" alt=""></a></div>
-                        <ul class="social-links">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                        </ul>
-                        <h3 class="name"><a href="#">James N.</a></h3>
-                    </div>
-                    <span class="designation">Backend Specialist</span>
-                </div>
-            </div>
-
-            <!-- Team Block -->
-            <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <div class="image"><a href="#"><img src="images/resource/team-2.jpg" alt=""></a></div>
-                        <ul class="social-links">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                        </ul>
-                        <h3 class="name"><a href="#">Nicolas Jin</a></h3>
-                    </div>
-                    <span class="designation">Manager</span>
-                </div>
-            </div>
-
-            <!-- Team Block -->
-            <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <div class="image"><a href="#"><img src="images/resource/team-4.jpg" alt=""></a></div>
-                        <ul class="social-links">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                        </ul>
-                        <h3 class="name"><a href="#">John Woo</a></h3>
-                    </div>
-                    <span class="designation">CTO</span>
-                </div>
-            </div>
-
-            <!-- Team Block -->
-            <!-- <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <div class="image"><a href="#"><img src="images/resource/team-3.jpg" alt=""></a></div>
-                        <ul class="social-links">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                        </ul>
-                        <h3 class="name"><a href="#">Samuel Ehga</a></h3>
-                    </div>
-                    <span class="designation">UI/UX Specialist</span>
-                </div>
-            </div> -->
-
-            </div>
-        </div>
-    </section>
-    <!--End Team Section -->
-
-    <!-- Services Section -->
-    <section class="services-section" id="services_section">
-        <div class="upper-box" style="background-image: url(images/background/2.jpg);">
-            <div class="auto-container">    
-                <div class="sec-title text-center light">
-                    <span class="float-text">Specialization</span>
-                    <h2>Our Specialization</h2>
-                </div>
-            </div>
-        </div>
-
-        <div class="services-box">
-            <div class="auto-container">
-                <div class="services-carousel owl-carousel owl-theme">
-                    
-                    <div class="service-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image"><img src="images/resource/web_dev.png" alt=""></figure>
-                            </div>
-                            <div class="lower-content">
-                                <h3>WEB DEVELOPMENT</h3>
-                                <div class="text">We have rich experience in React.js, Redux, React Nativ, Vue.js/Vuex, lonic, Node.js, Django, Flask, Ruby on Rails, Laravel, Yii, Wordpress, Drupal, Magento.
-                                    Also have experience with AWS/Heroku, configuring +deploying applications.
-                                    We enjoy technical challenges and love to be involved in all stages of product development.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    
-                    <div class="service-block">
-                            <div class="inner-box">
-                                <div class="image-box">
-                                    <figure class="image"><img src="images/resource/mobile-dev.png" alt=""></figure>
-                                </div>
-                                <div class="lower-content">
-                                    <h3>MOBILE DEVELOPMENT</h3>
-                                    <div class="text">Extensive experience in lonic 3, Cordova Android, Cordova IOS, React Native. We are keen, fast learning developers and have a passion for alll aspects of programming with a particular focus recently on React Native ever since its release.
-                                        We've become proficent in React Native after having released my first app and having worked on a number of other projects that have involved a variety of iOS and mobile development fundamentals.
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
-                    
-                    <div class="service-block">
-                            <div class="inner-box">
-                                <div class="image-box">
-                                    <figure class="image"><img src="images/resource/ecommerce.png" alt=""></figure>
-                                </div>
-                                <div class="lower-content">
-                                    <h3>E-COMMERCE/SHOPIFY DEVELOPMENT</h3>
-                                    <div class="text">Have 4+ years experience with Shopify, eCommerce, & storefront development.
-                                        Have invested thousands in their courses to understand EXACTLY what it takes to build a high converting automated & branded Shopify store.
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
-                   
-                    <div class="service-block">
-                            <div class="inner-box">
-                                <div class="image-box">
-                                    <figure class="image"><img src="images/resource/other.png" alt=""></figure>
-                                </div>
-                                <div class="lower-content">
-                                    <h3>OTHER</h3>
-                                    <div class="text">- Git, Github, Gitlab, Bitbucket<br>
-                                        - AWS Architect, AWS Lambda, AWS Cloud, Amazon s3, Amazon ES2, Amazon Web Services <br>
-                                        - Jira, Trello<br>
-                                        - Database: Firebase, MongoDB, MSSQL, MySQL, Postgre<br>
-                                        -API's: Google service, Cloud Messaging, Support libray<br>
-                                        - Mac OS, Ubuntu, Windows
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Services Section -->
-
-    <!-- Fun Fact Section -->
-    <section class="fun-fact-section" id="fun_section">
-        <div class="outer-box" style="background-image: url(images/background/3.jpg);">
-            <div class="auto-container">
-                <div class="fact-counter">
+        <!-- .widget-area -->
+    </div>
+    <!-- .sidebar -->
+    <div class="wrapper">
+        <header class="header">
+            <div class="head-bg" style="background-image: url('assets/img/perfil.jpg')"></div>
+            <div class="head-bar">
+                <div class="head-bar-inner">
                     <div class="row">
-                        <!--Column-->
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                            <div class="count-box">
-                                <div class="count"><span class="count-text" data-speed="2500" data-stop="8">0</span></div>
-                                <h4 class="counter-title">Years of <br>Experience</h4>
-                            </div>
+                        <div class="col-sm-3 col-xs-6">
+                            <a class="logo" href="index-2.html"></a>
+                            <a class="head-logo" href="index.html"><img src="assets/img/mj.png" style="width: 70px; border-radius: 50%; border: 5px solid #E83B35;" /></a>
                         </div>
-
-                        <!--Column-->
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                            <div class="count-box">
-                                <div class="count"><span class="count-text" data-speed="2500" data-stop="136">0</span></div>
-                                <h4 class="counter-title">Project <br>Taken</h4>
+                        <div class="col-sm-9 col-xs-6">
+                            <div class="nav-wrap">
+                                <nav id="nav" class="nav">
+                                    <ul class="clearfix">
+                                        <li><a href="index.html#about">About me</a></li>
+                                        <li><a href="index.html#skills">Knowledge</a></li>
+                                        <li><a href="index.html#experience">Experience</a></li>
+                                        <li><a href="index.html#references">References</a></li>
+                                        <li>
+                                            <a href="blog/index.html">Blog</a>
+                                        </li>
+                                        <li><a href="index.html#contact">Contact <span></span></a></li>
+                                    </ul>
+                                </nav>
+                                <button class="btn-mobile btn-mobile-nav">Menu</button>
+                                <button class="btn-sidebar btn-sidebar-open"><i class="rsicon rsicon-menu"></i></button>
                             </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-                            <div class="count-box">
-                                <div class="count"><span class="count-text" data-speed="2500" data-stop="10">0</span>k</div>
-                                <h4 class="counter-title">Working  <br> Hours</h4>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-                            <div class="count-box">
-                                <div class="count"><span class="count-text" data-speed="2500" data-stop="46">0</span></div>
-                                <h4 class="counter-title">Great <br>Feedbacks</h4>
-                            </div>
+                            <!-- .nav-wrap -->
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!--End Fun Fact Section -->
-
-    <!-- Project Section -->
-    <section class="projects-section" id="project_section">
-        <div class="auto-container">
-            <div class="sec-title text-right">
-                <span class="float-text">Project</span>
-                <h2>Our Project</h2>
-            </div>
-        </div>
-        
-        <div class="inner-container">
-            <div class="projects-carousel owl-carousel owl-theme">
-                <!-- Project Block -->
-                <div class="project-block">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/gallery/1.jpg" alt=""></figure>
-                        <div class="overlay-box">
-                            <h4><a href="http://www.fitiverse.com">Fitiverse.com</a></h4>
-                            <div class="btn-box">
-                                <a href="images/gallery/1.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="http://www.fitiverse.com"><i class="fa fa-external-link"></i></a>
-                            </div>
-                            <span class="tag">React + Express</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/gallery/2.jpg" alt=""></figure>
-                        <div class="overlay-box">
-                            <h4><a href="http://www.envoc.com">envoc.com</a></h4>
-                            <div class="btn-box">
-                                <a href="images/gallery/2.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="http://www.envoc.com"><i class="fa fa-external-link"></i></a>
-                            </div>
-                            <span class="tag">Angular + Flask</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/gallery/3.jpg" alt=""></figure>
-                        <div class="overlay-box">
-                            <h4><a href="http://www.fortfunding.com">fortfunding.com</a></h4>
-                            <div class="btn-box">
-                                <a href="images/gallery/3.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="http://www.fortfunding.com"><i class="fa fa-external-link"></i></a>
-                            </div>
-                            <span class="tag">Angular + Django</span>
-                        </div>
-                    </div>
-                </div>
-                <!-- Project Block -->
-                <div class="project-block">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/gallery/4.jpg" alt=""></figure>
-                        <div class="overlay-box">
-                            <h4><a href="http://www.hermanmiller.com">hermanmiller.com</a></h4>
-                            <div class="btn-box">
-                                <a href="images/gallery/4.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="http://www.hermanmiller.com"><i class="fa fa-external-link"></i></a>
-                            </div>
-                            <span class="tag">Vue + Laravel</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/gallery/5.jpg" alt=""></figure>
-                        <div class="overlay-box">
-                            <h4><a href="http://www.airbit.com">airbit.com</a></h4>
-                            <div class="btn-box">
-                                <a href="images/gallery/5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="http://www.airbit.com"><i class="fa fa-external-link"></i></a>
-                            </div>
-                            <span class="tag">React + Django</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block">
-                        <div class="image-box">
-                            <figure class="image"><img src="images/gallery/6.jpg" alt=""></figure>
-                            <div class="overlay-box">
-                                <h4><a href="https://www.solar-estimate.org">solar-estimate.org</a></h4>
-                                <div class="btn-box">
-                                    <a href="images/gallery/5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                    <a href="https://www.solar-estimate.org"><i class="fa fa-external-link"></i></a>
+        </header>
+        <!-- .header -->
+        <div class="content">
+            <div class="container">
+            <!-- START: PAGE CONTENT -->
+            <section id="about" class="section section-about">
+                <div class="animate-up">
+                    <div class="section-box">
+                        <div class="profile">
+                            <div class="row">
+                                <div class="col-xs-5">
+                                    <div class="profile-photo">
+                                        <img src="assets/img/1.jpg"  style="border: 5px solid #E83B35; border-radius: 20px"/>
+                                    </div>
                                 </div>
-                                <span class="tag">Angular</span>
-                            </div>
-                        </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block">
-                        <div class="image-box">
-                            <figure class="image"><img src="images/gallery/7.jpg" alt=""></figure>
-                            <div class="overlay-box">
-                                <h4><a href="http://www.usablenet.com">usablenet.com</a></h4>
-                                <div class="btn-box">
-                                    <a href="images/gallery/5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                    <a href="http://www.usablenet.com"><i class="fa fa-external-link"></i></a>
-                                </div>
-                                <span class="tag">Vue</span>
-                            </div>
-                        </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!--End Project Section -->
-
-
-    <!-- Testimonial Section -->
-    <section class="testimonial-section" id = "testimonial_section">
-        <div class="outer-container clearfix">
-            <!-- Title Column -->
-            <div class="title-column clearfix">
-                <div class="inner-column">
-                    <div class="sec-title">
-                        <span class="float-text">testimonial</span>
-                        <h2>What Client Says</h2>
-                    </div>
-                    <!-- <div class="text">Looking at its layout. The point of using very profectly is that it has a more-or-less normal distribution of letters, as opposed</div> -->
-                </div>
-            </div>
-
-            <!-- Testimonial Column -->
-            <div class="testimonial-column clearfix" style="background-image: url(images/background/4.jpg);">
-                <div class="inner-column">
-                    <div class="testimonial-carousel owl-carousel owl-theme">
-                        <!-- Testimonial Block -->
-                        <div class="testimonial-block">
-                            <div class="inner-box">
-                                <div class="image-box"><img src="images/resource/client-1.jpg" alt=""></div>
-                                <div class="text">They have been a pleasure to work with. Greta communicator and goes above and beyond. Will continue to utilize them in future projects when the needs arise.</div>
-                                <div class="info-box">
-                                    <h4 class="name">Vernardo M.</h4>
+                                <div class="col-xs-7">
+                                    <div class="profile-info">
+                                        <div class="profile-preword"><span>Hi</span></div>
+                                        <h1 class="profile-title"><span>I am</span> <span>Ming Jin</span></h1>
+                                        <h2 class="profile-position">Ecommerce And Front-end Developer</h2></div>
+                                    <ul class="profile-list">
+                                        <li class="clearfix">
+                                            <strong class="title">Age</strong>
+                                            <span class="cont">26</span>
+                                        </li>
+                                        <li class="clearfix">
+                                            <strong class="title">Address</strong>
+                                            <span class="cont">China, Dalian City</span>
+                                        </li>
+                                        <li class="clearfix">
+                                            <strong class="title">E-mail</strong>
+                                            <span class="cont"><a href="mailto:business.awesomecoder@gmail.com">business.awesomecoder@gmail.com</a></span>
+                                        </li>
+                                        <li class="clearfix">
+                                            <strong class="title">Telephone</strong>
+                                            <span class="cont"><a href="tel:+86 32324077500">+86 32324077500</a></span>
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
-
-                        <!-- Testimonial Block -->
-                        <div class="testimonial-block">
-                            <div class="inner-box">
-                                <div class="image-box"><img src="images/resource/client-2.jpg" alt=""></div>
-                                <div class="text">First off, they're excellent at communication. From clearly stating progress to setting accurate expectations, they've been exceptionally transparent the whole development process. When it comes to development, they know their stuff and it shows with how quickly they can fix things we've been scratching our heads with. It'd be a pleasure to work with them again.</div>
-                                <div class="info-box">
-                                    <h4 class="name">William E.</h4>
-                                    <!-- <span class="designation">CEO, InDesign</span> -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Block -->
-                        <div class="testimonial-block">
-                            <div class="inner-box">
-                                <div class="image-box"><img src="images/resource/client-3.jpg" alt=""></div>
-                                <div class="text">Super great! They met our super shot deadline and we have a working app!
-                                        They work fast and know how to make the client happy.
-                                </div>
-                                <div class="info-box">
-                                    <h4 class="name">Geogry S.</h4>
-                                </div>
-                            </div>
+                        <div class="profile-social">
+                            <ul class="social">
+                                <li><a class="ripple-centered" href="#"><i
+                                        class="rsicon rsicon-facebook"></i></a></li>
+                                <li><a class="ripple-centered" href="#"><i
+                                        class="rsicon rsicon-twitter"></i></a></li>
+                                <li><a class="ripple-centered" href="#"><i
+                                        class="rsicon rsicon-linkedin"></i></a></li>
+                                <li><a class="ripple-centered" href="#"><i
+                                        class="rsicon rsicon-google-plus"></i></a></li>
+                                <li><a class="ripple-centered" href="#"><i
+                                        class="rsicon rsicon-instagram"></i></a></li>
+                            </ul>
                         </div>
                     </div>
+                    <div class="section-txt-btn">
+                        <p>My name is <b>Ming Jin</b> and I am an <strong>Ecommerce and Front-end developer</strong> based in China. In my professional career, I have had the great fortune to have contributed in all stages of development of various products: their definition or idea, team coordination, architecture, programming and implementation. I have extensive knowledge of a multitude of frameworks and technologies: <strong>Shopify</strong>, <strong>MERN</strong>, <strong>MEAN</strong>, <strong>express</strong>, <strong>mongoose</strong> and I have also worked with the most diverse databases: <strong>Mysql</strong>, <strong>MongoDB</strong> and <strong>Dynamodb</strong> among other. I have experimented with different cloud computing providers, including <strong>Amazon Web Services</strong>, <strong>Heroku</strong> or <strong>Google Cloud Platform</strong>.
+                        </p> 
+                    </div>
                 </div>
-            </div>
-        </div>
-    </section>
-    <!--End Testimonial Section -->
-
-
-    <!-- Main Footer -->
-    <footer class="main-footer" style="background-image: url(images/background/5.jpg);">
-        <div class="auto-container">
-            <!--Widgets Section-->
-            <div class="widgets-section">
-                <div class="row">
-                    <!--Big Column-->
-                    <div class="big-column col-xl-7 col-lg-12 col-md-12 col-sm-12">
+            </section>
+            <!-- #about -->
+            <section id="skills" class="section section-skills">
+                <div class="animate-up">
+                    <h2 class="section-title">Check out everything I've learned! 👓</h2>
+                    <!-- LENGUAJES -->
+                    <div class="section-box">
                         <div class="row">
-                            <!--Footer Column-->
-                            <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                <div class="footer-widget about-widget">
-                                    <div class="footer-logo">
-                                        <figure>
-                                            <a href="#"><img src="images/footer-logo.png" alt=""></a>
-                                        </figure>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">Shopify</span>
                                     </div>
-                                    <div class="widget-content">
-                                        <div class="text">Ready to elevate your business? 
-                                            We craft digital identities that are built to last. 
-                                            No cookie cutters, no templates, no best guesses. 
-                                            Only quality custom work from concept to creation. 
-                                            Business is going digital, let’s get you ahead of the pack!</div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
                                     </div>
                                 </div>
                             </div>
-                            
-                            <!--Footer Column-->
-                            <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                <div class="footer-widget recent-posts">
-                                    <h2 class="widget-title">Address</h2>
-                                     <!--Footer Column-->
-                                    <div class="widget-content">
-                                        <div class="post">
-                                            <div class="thumb"><img src="images/resource/post-thumb-1.png" alt=""></div>
-                                            <h4>Sai Yu St, Hong Kong</h4>
-                                            <ul class="list">
-                                                <li>Phone: (+86) 132-3693-7200</li>
-                                                <li>Email: nicolasjin7132@outlook.com</li>
-                                            </ul>
-                                        </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">JavaScript</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
                                     </div>
                                 </div>
-                            </div>         
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">liquid</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">React.js</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    
-                    <!--Big Column-->
-                    <div class="big-column col-xl-5 col-lg-12 col-md-12 col-sm-12">
-                        <div class="row clearfix">
-                            <div class="footer-column col-xl-5 col-lg-6 col-md-6 col-sm-12">
-                                 <!-- <div class="footer-widget links-widget">
-                                    <h2 class="widget-title">Contact Us</h2>
-                                    <div class="widget-content">
-                                        <ul class="list">
-                                            <li>*Your name<input type="text" class ="contact_name"></li>
-                                            <li>*Your email<input type="text" class ="contact_email"></li>
-                                            <li>Your address<input type="text" class ="contact_address"></li>
-                                            <button class="contact_address" id="send_button" value="send">
-                                        </ul>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">AngularJS</span>
                                     </div>
-                                </div> -->
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
                             </div>
-
-                            <!--Footer Column-->
-                            <div class="footer-column col-xl-7 col-lg-6 col-md-6 col-sm-12">
-                                <div class="footer-widget gallery-widget">
-                                    <h2 class="widget-title">Recent Works</h2>
-                                    <div class="widget-content">
-                                        <div class="outer clearfix">
-                                            <figure class="image">
-                                                <a href="images/gallery/1.jpg" class="lightbox-image" title="Image Title Here"><img src="images/resource/work-thumb-1.jpg" alt=""></a>
-                                            </figure>
-
-                                            <figure class="image">
-                                                <a href="images/gallery/2.jpg" class="lightbox-image" title="Image Title Here"><img src="images/resource/work-thumb-2.jpg" alt=""></a>
-                                            </figure>
-
-                                            <figure class="image">
-                                                <a href="images/gallery/3.jpg" class="lightbox-image" title="Image Title Here"><img src="images/resource/work-thumb-3.jpg" alt=""></a>
-                                            </figure>
-
-                                            <figure class="image">
-                                                <a href="images/gallery/4.jpg" class="lightbox-image" title="Image Title Here"><img src="images/resource/work-thumb-4.jpg" alt=""></a>
-                                            </figure>
-
-                                            <figure class="image">
-                                                <a href="images/gallery/5.jpg" class="lightbox-image" title="Image Title Here"><img src="images/resource/work-thumb-5.jpg" alt=""></a>
-                                            </figure>
-
-                                            <figure class="image">
-                                                <a href="images/gallery/6.jpg" class="lightbox-image" title="Image Title Here"><img src="images/resource/work-thumb-6.jpg" alt=""></a>
-                                            </figure>
-                                        </div>
-                                    </div>       
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">VueJS</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">NodeJS</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">Express</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">MongoDB</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">AWS</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">jQuery</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">CSS</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">HTML</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">python</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="90%"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="progress-bar">
+                                    <div class="bar-data">
+                                        <span class="bar-title">Heroku</span>
+                                    </div>
+                                    <div class="bar-line">
+                                        <span class="bar-fill" data-width="100%"></span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-        <div class="footer-bottom">
-            <div class="auto-container">
-                <div class="inner-container clearfix">
-                    <div class="social-links">
-                        <ul class="social-icon-two">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+            </section>
+            <!-- #skills -->
+            <section id="experience" class="section section-experience">
+                <div class="animate-up">
+                    <h2 class="section-title">As time goes! ⌛</h2>
+                    <div class="timeline">
+                        <div class="timeline-bar"></div>
+                        <div class="timeline-inner clearfix">
+                        <div class="timeline-box timeline-box-left">
+                                <span class="dot"></span>
+                                <div class="timeline-box-inner animate-right">
+                                    <span class="arrow"></span>
+                                    <div class="date">August 2018 - Current</div>
+                                    <h3><a href="https://agilesoftware.es/">Senior Ecommerce & Frontend Developer</a></h3>
+                                    <h4>Freelance</h4>
+                                    <p>Betting on entrepreneurship, I decide to embark as a freelancer offering professional services in the field of Software development. I do web design, online store creation and custom software.
+                                    </p>
+                                    <p>Are you interested in my services?  </p>
+                                </div>
+                            </div>     
+                            <div class="timeline-box timeline-box-right">
+                                <span class="dot"></span>
+                                <div class="timeline-box-inner animate-left">
+                                    <span class="arrow"></span>
+                                    <div class="date">October 2017 - August 2018</div>
+                                    <h3>IMRN</h3>
+                                    <h4>Project manager</h4>
+                                    <p>
+                                    <ul>
+                                        <li>Agile project management.</li>
+                                        <li>Technical direction.</li>
+                                        <li>Management and coordination of work teams.</li>
+                                        <li>Definition and management of budgets.</li>
+                                    </ul>      
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="timeline-box timeline-box-right">
+                                <span class="dot"></span>
+                                <div class="timeline-box-inner animate-left">
+                                    <span class="arrow"></span>
+                                    <div class="date">September 2016 - October 2017</div>
+                                    <h3>BDJE(Remote)</h3>
+                                    <h4>Backend Developer</h4>
+                                    <p>Participate in the different stages of creating proprietary software. Design and idea, development, software architecture and implementation in cloud computing platform. Development of multiple rest services with spring framework.</p>
+                                </div>
+                            </div>
+                            <div class="timeline-box timeline-box-left">
+                                <span class="dot"></span>
+                                <div class="timeline-box-inner animate-right">
+                                    <span class="arrow"></span>
+                                    <div class="date">April 2015 - September 2016</div>
+                                    <h3>Freelancer.com</h3>
+                                    <h4>Senior Web application developer</h4>
+                                    <p> Browser & device compatible, responsive and attractive designs, admirable comprehension, responsive skill, robust and tiny code are my strong points.
+                                        My expertise are the following:
+                                        <ul>
+                                            <li>MVC frameworks, PHP frameworks</li>
+                                            <li>PHP, Restful, Laravel</li>
+                                            <li>CMS: Shopify</li>
+                                            <li>MEAN/MERN stack, Vue.js, D3.js</li>
+                                            <li>MySQL, MongoDB</li>
+                                        </ul>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="timeline-box timeline-box-right">
+                                <span class="dot"></span>
+                                <div class="timeline-box-inner animate-left">
+                                    <span class="arrow"></span>
+                                    <div class="date">September 2015 - September 2016</div>
+                                    <h3>Technical Company</h3>
+                                    <h4>Intern</h4>
+                                    <p>Web Development field</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- #experience -->
+            <!-- #education section -->
+            <!-- #clients section -->
+            <section id="references" class="section section-references">
+                <div class="animate-up">
+                    <h2 class="section-title">What they say about me ...  📢</h2>
+                    <div class="section-box">
+                        <ul class="ref-slider">
+                            <li>
+                                <div class="ref-box">
+                                    <div class="person-speech">
+                                        <p>I have worked together with Ming on several software development projects. From this experience, I must highlight, above all, its high degree of involvement, both with the client, with the quality of the product, and with the team.</p>
+                                    </div>
+                                    <div class="person-info clearfix">
+                                        <img class="person-img" src="assets/img/Sebastian-Melgar-Neocoast.jpg" alt="Sebastian Melgar Neocoast">
+                                        <div class="person-name-title">
+                                            <span class="person-name">Sebastián Melgar</span>
+                                            <span class="person-title"><a href="">Neocoast</a> , CO-Founder</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="ref-slider-nav">
+                            <span id="ref-slider-prev" class="slider-prev"></span>
+                            <span id="ref-slider-next" class="slider-next"></span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- #references -->
+            <!-- prices section -->
+            <!-- <section id="blog" class="section section-blog">
+                <div class="animate-up">
+                    <h2 class="section-title">Things that go through my head 💡</h2>
+                    <div class="blog-grid">
+                        <div class="grid-sizer"></div>
+                        <div  class="grid-item">
+                            <article class="post-box">
+                                <div class="post-media">
+                                    <div class="post-image">
+                                        <a href=""><img src="assets/blog/mongodb-seguridad.png"> </a>
+                                    </div>
+                                </div>
+                                <div class="post-data">
+                                    <time class="post-datetime" datetime="2019-09-17 00:00:00 +0200">
+                                        <span class="day">17</span>
+                                        <span class="month">
+                                            Sept
+                                        </span>
+                                    </time>
+                                    <div class="post-tag">
+                                        <a href="tag/mongodb/index.html">#mongodb</a>
+                                        <a href="tag/seguridad/index.html">#seguridad</a>
+                                    </div>
+                                    <h3 class="post-title">
+                                        <a href="seguridad-mongodb-produccion/index.html">Configurando la seguridad de mongodb para un entorno de producción</a>
+                                    </h3>
+                                    <div class="post-info">
+                                        <a href="index.html"><i class="rsicon rsicon-user"></i>por Antonio Fernández</a>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div  class="grid-item">
+                            <article class="post-box">
+                                <div class="post-media">
+                                    <div class="post-image">
+                                        <a href="plugins-web/index.html"><img src="assets/blog/uso-plugins-dise%c3%b1o-web.jpg" alt="Plugins para todo : destrozando el diseño web"> </a>
+                                    </div>
+                                </div>
+                                <div class="post-data">
+                                    <time class="post-datetime" datetime="2019-05-09 00:00:00 +0200">
+                                        <span class="day">09</span>
+                                        <span class="month">
+                                            Mayo
+                                        </span>
+                                    </time>
+                                    <div class="post-tag">
+                                        <a href="tag/desarrollo-web/index.html">#desarrollo web</a>
+                                        <a href="tag/dise%c3%b1o-web/index-2.html">#diseño web</a>
+                                        <a href="tag/plugins/index.html">#plugins</a>
+                                        <a href="tag/wordpress/index.html">#wordpress</a>
+                                    </div>
+                                    <h3 class="post-title">
+                                        <a href="plugins-web/index.html">Plugins para todo : destrozando el diseño web</a>
+                                    </h3>
+                                    <div class="post-info">
+                                        <a href="index.html"><i class="rsicon rsicon-user"></i>por Antonio Fernández</a>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </section> -->
+            <section id="interests" class="section section-interests">
+                <div class="animate-up">
+                    <h2 class="section-title">What do you do in your free time? 🎶</h2>
+                    <div class="section-box">
+                        <p>Even outside the workplace, I must admit that one of my great passions has always been, technology. In a sector as competitive as this, one of the essential requirements that defines a good professional and / or entrepreneur is the search for new knowledge. In order to achieve a high level of training, I keep constantly researching new trends and experimenting with the latest technologies on the market.
+                        <br/>I write articles of interest on technology, programming and entrepreneurship, which you can find on my <br/><a href="blog/index.html">blog personal</a> </p>
+                        <ul class="interests-list">
+                            <li>
+                                <i class="map-icon map-icon-gym"></i>
+                                <span>Sport</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-airport"></i>
+                                <span>Travel</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-museum"></i>
+                                <span>Culture</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-electronics-store"></i>
+                                <span>Technology</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-library"></i>
+                                <span>Entrepreneurship</span>
+                            </li>
                         </ul>
                     </div>
-                    
-                    <div class="copyright-text">
-                        <p>Created by HCOCT software development team</p>
-                    </div>
                 </div>
-            </div>
+            </section>
+           
+            <section id="contact" class="section section-contact">
+                <div class="animate-up">
+                    <h2 class="section-title">Come on, come on ... do it 📝</h2>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="section-box contact-form">
+                                <h3>Tell me how can I help you</h3>
+                                <form class="rsForm" action="https://antoniofernandez.com/sendEmail" method="post">
+                                    <div class="input-field">
+                                        <label>Name</label>
+                                        <input type="text" name="rsName" value="">
+                                        <span class="line"></span>
+                                    </div>
+                                    <div class="input-field">
+                                        <label>Email</label>
+                                        <input type="email" name="rsEmail" value="">
+                                        <span class="line"></span>
+                                    </div>
+                                    <div class="input-field">
+                                        <label>AFFAIR</label>
+                                        <input type="text" name="rsSubject" value="">
+                                        <span class="line"></span>
+                                    </div>
+                                    <div class="input-field">
+                                        <label>Message</label>
+                                        <textarea rows="4" name="rsMessage"></textarea>
+                                        <span class="line"></span>
+                                    </div>
+                                    <span class="btn-outer btn-primary-outer ripple">
+                                        <input class="rsFormSubmit btn btn-lg btn-primary" type="submit" value="Enviar">
+                                    </span>
+                                </form>
+                            </div>
+                        </div>
+                    </div>   
+                </div>
+            </section>
+            <!-- #contact -->
+            <!-- END: PAGE CONTENT -->
+        </div>
+        <!-- .container -->
+    </div>
+    <!-- .content -->
+    <footer class="footer">
+        <div class="footer-social">
+            <ul class="social">
+                <li><a class="ripple-centered" href="#"><i class="rsicon rsicon-facebook"></i></a></li>
+                <li><a class="ripple-centered" href="#"><i class="rsicon rsicon-twitter"></i></a></li>
+                <li><a class="ripple-centered" href="#"><i class="rsicon rsicon-linkedin"></i></a></li>
+                <li><a class="ripple-centered" href="#"><i class="rsicon rsicon-google-plus"></i></a></li>
+                <li><a class="ripple-centered" href="#"><i class="rsicon rsicon-instagram"></i></a></li>
+            </ul>
         </div>
     </footer>
-    <!-- End Main Footer -->
-
-</div>
-
-
-
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-circle-o-up"></span></div>
-<script src="js/jquery.js"></script> 
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/mixitup.js"></script>
-<script src="js/script.js"></script>
-
+    <!-- .footer -->
+    </div>
+    <!-- .wrapper -->
+    <a class="btn-scroll-top" href="#"><i class="rsicon rsicon-arrow-up"></i></a>
+    <div id="overlay"></div>
+    <div id="preloader">
+        <div class="preload-icon"><span></span><span></span></div>
+        <div class="preload-text">Loading ...</div>
+    </div>
+    <!-- Scripts -->
+    <script type="text/javascript" src="assets/dist/all-min.js"></script>
 </body>
 </html>
